@@ -1,0 +1,13 @@
+body {
+  background-color: black;
+}
+body > h1 {
+  color: white;
+}
+body > #sendy {
+  position: absolute;
+  width: 50%;
+  margin: 15em 15% auto 35%;
+  border-radius: 10px;
+  box-shadow: 0 0 100px black inset;
+}
