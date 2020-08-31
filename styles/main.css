@@ -1,5 +1,7 @@
 :root {
   font-family: 'Amatic SC', cursive;
+  font-size: 24px;
+  direction: rtl;
 }
 body {
   background-color: black;
