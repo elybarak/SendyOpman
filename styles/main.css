@@ -4,13 +4,14 @@
 body {
   background-color: black;
 }
+section#first {
+  height: 25em;
+}
 body > h1 {
   color: white;
 }
-body > #sendy {
-  position: absolute;
-  width: 50%;
-  margin: 15em 15% auto 35%;
+img#sendy {
+  margin: 5em 5em auto 5em;
   border-radius: 10px;
   box-shadow: 0 0 100px black inset;
 }
